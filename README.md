@@ -4,7 +4,7 @@ Video recorder with FPS(Frame Per Second) mark and contrast&amp;brightness contr
 
 -------------------------------------------------------------------------------------------------
 Using OpenCV  
-##command  
+## command  
 'space'-> record mode on/off  (If there's a red circle on the top left, it means it's recording.)  
 'o'->brightness(-)  
 'p'->brightness(+)  
