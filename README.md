@@ -16,6 +16,9 @@ if you use WebCam, ID would be 0 or 1,2,3...
 
 ## command  
 'space'-> record mode on/off  (If there's a red circle on the top left, it means it's recording.)  
+The recorded file is saved in the same directory as the Python file, based on the recording time.  
+  
+  
 'o'->brightness(-)(-100~100)  
 'p'->brightness(+)  
 
