@@ -4,6 +4,11 @@ Video recorder with FPS(Frame Per Second) mark and contrast&amp;brightness contr
 
 -------------------------------------------------------------------------------------------------
 Using OpenCV  
+
+Put the video's address in the 'ID' of line 15.
+if you use WebCam, ID would be 0 or 1,2,3...
+--------------------------------------------------------------------------------------------------
+
 ## command  
 'space'-> record mode on/off  (If there's a red circle on the top left, it means it's recording.)  
 'o'->brightness(-)(-100~100)  
