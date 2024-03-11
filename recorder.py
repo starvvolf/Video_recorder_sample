@@ -10,8 +10,9 @@ import numpy as np
 import time
 from datetime import datetime
 
-ID ='rtsp://210.99.70.120:1935/live/cctv001.stream'
-sample=""
+
+sample='rtsp://210.99.70.120:1935/live/cctv001.stream'
+ID = 0
 video = cv.VideoCapture(ID)
 video.set(cv.CAP_PROP_FRAME_WIDTH, 1280)
 video.set(cv.CAP_PROP_FRAME_HEIGHT, 720)
