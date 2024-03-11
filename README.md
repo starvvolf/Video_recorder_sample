@@ -5,8 +5,13 @@ Video recorder with FPS(Frame Per Second) mark and contrast&amp;brightness contr
 -------------------------------------------------------------------------------------------------
 Using OpenCV  
 
-Put the video's address in the 'ID' of line 15.
-if you use WebCam, ID would be 0 or 1,2,3...
+
+-------------------------------------------------------------------------------------------------
+## Before Running   
+Put the video's address in the 'ID' of line 15.    
+
+if you use WebCam, ID would be 0 or 1,2,3...    
+
 --------------------------------------------------------------------------------------------------
 
 ## command  
